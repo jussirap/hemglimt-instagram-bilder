@@ -1,5 +1,4 @@
-# Hemglimt: Instagrambilder
+# Bilder till @hemglimt på Instagram
 
-Färdiga bilder till @hemglimt på Instagram, publicerade via Metricool. Varje AI-bild är märkt i bilden.
-
-© Hemglimt. Får inte återanvändas.
+Här ligger bara inlägg som styrelsen har godkänt. Metricool hämtar bilderna härifrån när inläggen schemaläggs.
+Alla AI-bilder är märkta i själva bilden.
